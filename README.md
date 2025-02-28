@@ -26,16 +26,19 @@ The data used in this project comes from the **US Heart and Stroke Atlas**, whic
 ## 🎨 Visualization Components
 The application consists of three main visualization components:
 
+![Histogram Visualization](img/Histogram.png)
 ### 1️⃣ Histogram
 - **Purpose**: Shows the distribution of a selected attribute (e.g., poverty percentage, stroke prevalence) across all US counties.
 - **Interaction**: Users can select an attribute from the dropdown menu to update the histogram.
 - **Example**: Selecting "Poverty Percentage" will display the distribution of poverty levels across counties.
 
+![Scatterplot Visualization](img/Scatter plot.png)
 ### 2️⃣ Scatterplot
 - **Purpose**: Explores the correlation between two selected attributes (e.g., poverty percentage vs. stroke prevalence).
 - **Interaction**: Users can choose the X and Y axes from dropdown menus to visualize the relationship between two variables.
 - **Example**: Plotting "Poverty Percentage" on the X-axis and "Stroke Prevalence" on the Y-axis can reveal whether higher poverty levels are associated with higher stroke rates.
 
+![Choropleth Map Visualization](img/Choropleth.png)
 ### 3️⃣ Choropleth Map
 - **Purpose**: Displays the spatial distribution of a selected attribute across US counties.
 - **Interaction**: Users can select an attribute from the dropdown menu to update the map.
