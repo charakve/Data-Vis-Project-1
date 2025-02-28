@@ -32,7 +32,7 @@ The application consists of three main visualization components:
 - **Interaction**: Users can select an attribute from the dropdown menu to update the histogram.
 - **Example**: Selecting "Poverty Percentage" will display the distribution of poverty levels across counties.
 
-![Scatterplot Visualization](img/Scatter plot.png)
+![Scatterplot Visualization](img/Scatterplot.png)
 ### 2️⃣ Scatterplot
 - **Purpose**: Explores the correlation between two selected attributes (e.g., poverty percentage vs. stroke prevalence).
 - **Interaction**: Users can choose the X and Y axes from dropdown menus to visualize the relationship between two variables.
