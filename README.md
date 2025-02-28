@@ -2,6 +2,8 @@
 
 [Project Link](https://data-vis-project-1-jet.vercel.app/)
 
+![Home Page](img/Homepage.png)
+
 ## 📌 Project Overview
 This project is a data visualization dashboard that explores the relationship between socioeconomic and health indicators across US counties. The goal is to provide an interactive platform for users to analyze and understand how factors like poverty, median household income, stroke prevalence, and health insurance coverage vary across different regions in the United States.
 
